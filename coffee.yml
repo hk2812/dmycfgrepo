@@ -1,5 +1,6 @@
 spring:
 srvrs: 
+  envrn: dev
   files: 
     - test1
     - test2
