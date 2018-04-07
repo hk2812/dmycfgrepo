@@ -1,3 +1,4 @@
+spring:
 srvrs: 
   files: 
     - test1
