@@ -4,3 +4,4 @@ srvrs:
     - test1
     - test2
     - test3
+message = Hello world   from Git  
