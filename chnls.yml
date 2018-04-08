@@ -1,14 +1,15 @@
 --- 
 chnlist: 
-  - 
-    apps: "-a1 -a2"
-    chnnlId: test.a
-    prjId: proj-a
-  - 
-    apps: "-b1 -b2"
-    chnnlId: test.b
-    prjId: proj-b
-  - 
-    apps: "-c1 -c2"
-    chnnlId: test.c
-    prjId: proj-c
+  chnnels:
+    - 
+      apps: "-a1 -a2"
+      chnnlId: test.a
+      prjId: proj-a
+    - 
+      apps: "-b1 -b2"
+      chnnlId: test.b
+      prjId: proj-b
+    - 
+      apps: "-c1 -c2"
+      chnnlId: test.c
+      prjId: proj-c
