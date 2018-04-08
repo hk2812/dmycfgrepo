@@ -1,4 +1,3 @@
-spring:
 srvrs: 
   envrn: dev
   files: 
