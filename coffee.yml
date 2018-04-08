@@ -1,5 +1,5 @@
 --- 
-message: "Hello world   from Git"
+message: Hello world   from Git
 srvrs: 
   envrn: dev
   files: 
